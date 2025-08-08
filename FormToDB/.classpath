@@ -8,6 +8,10 @@
 	<classpathentry kind="src" path="src/main/java"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/ranje/Desktop/Books/jar-files/HikariCP-3.4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ranje/Desktop/Books/jar-files/mysql-connector-j-9.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ranje/Desktop/Books/jar-files/slf4j-api-1.7.25.jar"/>
 	<classpathentry kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 11.0/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ranje/Downloads/slf4j-simple-1.7.25.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
