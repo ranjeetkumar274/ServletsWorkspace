@@ -1,4 +1,4 @@
-package com.ashu;
+package in.ashu.util;
 
 import java.io.InputStream;
 import java.sql.Connection;
@@ -53,3 +53,4 @@ public class ConnectionFactory {
         return datasource.getConnection();
     }
 }
+
