@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>Fill Your Details</h2>
+<h2>Fill Your Details...</h2>
 
 <%
 String msg = (String)request.getAttribute("msg");
